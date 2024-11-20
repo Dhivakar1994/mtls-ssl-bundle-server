@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: mtls-ssl-bundle-server
+  ssl:
+    bundle:
+      server:
+        key
